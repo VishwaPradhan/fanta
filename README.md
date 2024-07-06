@@ -1,2 +1,2 @@
 # fanta
-This is for my youtube channel tutorial.
+experimenting with a desgin layout for the carbonated drinks 
